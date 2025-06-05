@@ -2,6 +2,7 @@
 name = "clap-tutorial"
 version = "0.1.0"
 edition = "2024"
+description = "this is a tutorial of clap"
 
 [dependencies]
 clap = { version = "4.5.38", features = ["derive"] }
